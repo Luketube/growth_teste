@@ -17,6 +17,12 @@
     color: #6D68AD;
     font-weight: bold;
     margin-left: 2rem;
-    text-decoration: none;
-    
+    padding: 0.5rem 2rem;
+    text-decoration: none;   
+}
+
+.menu_lista_link.ativo{
+    background-color: #6D68AD;
+    border-radius: 10px;
+    color: #ffffff;
 }
