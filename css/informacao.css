@@ -11,16 +11,6 @@
     
 }
 
-.informacao_conteudo_titulo{
-    font-size: 3.5rem;
-    font-weight: 900;
-}
-
-.informacao_conteudo_subtitulo{
-    font-size: 3rem;
-    font-weight: 550rem;
-}
-
 .informacao_conteudo_linha{
     margin: 1rem 0;
     border: 2px solid #F4DB94;
