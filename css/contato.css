@@ -1,0 +1,38 @@
+.contato{
+    display: flex;
+}
+
+.contato_mapa{
+    margin-right: 4rem;
+}
+
+.contato_conteudo{
+    margin: 6rem 25rem 0 0;
+}
+
+.contato_conteudo_linha{
+    margin: 1rem 0;
+    border: 2px solid #F4DB94;
+    max-width: 15rem;
+}
+
+.contato_conteudo_paragrafo{
+    line-height: 1.25rem;
+    margin-bottom: 2rem;
+}
+
+.contato_conteudo_formulario{
+    display: flex;
+    flex-direction: column;
+}
+
+.contato_formulario_input, .contato_formulario_mensagem{
+    border: 1px solid #78C3B6;
+    border-radius: 16px;
+    margin: 1rem 0;
+    padding: 1rem 0.75rem;
+}
+
+.contato_formulario_mensagem{
+    resize: none;
+}
