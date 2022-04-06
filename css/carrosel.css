@@ -1,0 +1,45 @@
+.carrosel{
+    margin-top: 4rem;
+}
+
+.carrosel_itens{
+    display: flex;
+    align-items: center;
+}
+
+.carrosel_botao{
+    color: #fdfdfd;
+    background-color: #78C3B6;
+    border: none;
+    border-radius: 100%;
+    font-size: 2rem;
+    font-weight: 900;
+    padding: .5rem 1.5rem;
+}
+
+.card{
+    align-items: center;
+    border: 1px solid #333333;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column; 
+    margin: 0 1rem;
+    height: 15rem;
+    padding: 1rem 2rem;
+}
+
+.card_titulo{
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-top: 2rem;
+}
+
+.card_subtitulo{
+    margin-top: .5rem;
+}
+
+.card_imagem{
+    margin-top: 1rem;
+    width: 202px;
+    height: 120px;
+}
